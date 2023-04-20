@@ -14,7 +14,7 @@ Disini saya akan membuat prpgram OOP sederhana menggunakan PHP
 
 ## 2). Membuat folder baru dengan nama lab10_php_oop pada docroot webserver (htdocs)
 
-![folder](img/2.jpg)
+![folder](img/2.jpeg)
 
 ## 3). Membuat file baru dengan nama mobil.php
 
